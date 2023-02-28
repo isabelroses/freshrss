@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/isabelroses/freshrss/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/isabelroses/freshrss/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/isabelroses/freshrss/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -19,28 +19,28 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/isabelroses/freshrss-catppuccin/main/assets/latte.png"/>
+<img src="https://raw.githubusercontent.com/isabelroses/freshrss/main/assets/latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/isabelroses/freshrss-catppuccin/main/assets/frappe.png"/>
+<img src="https://raw.githubusercontent.com/isabelroses/freshrss/main/assets/frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/isabelroses/freshrss-catppuccin/main/assets/macchiato.png"/>
+<img src="https://raw.githubusercontent.com/isabelroses/freshrss/main/assets/macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/isabelroses/freshrss-catppuccin/main/assets/mocha.png"/>
+<img src="https://raw.githubusercontent.com/isabelroses/freshrss/main/assets/mocha.png"/>
 </details>
 
 ## Usage
 
 1. Copy your desired palette(s) from `palettes` 🗂️
-   - 🌻 [Latte](palettes/latte.toml)
-   - 🪴 [Frappé](palettes/frappe.toml)
-   - 🌺 [Macchiato](palettes/macchiato.toml)
-   - 🌿 [Mocha](palettes/mocha.toml)
+   - 🌻 [Latte](palettes/latte.css)
+   - 🪴 [Frappé](palettes/frappe.css)
+   - 🌺 [Macchiato](palettes/macchiato.css)
+   - 🌿 [Mocha](palettes/mocha.css)
 2. Navigate to display and change the theme to Nord
 3. Then go to extentions and ensure you have installed the CustomCSS plugin
 4. Click the gear icon and paste the CSS of the Catppuccin theme flavor of your choice
