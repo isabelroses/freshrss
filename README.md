@@ -12,26 +12,26 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/isabelroses/freshrss//main/assets/res.webp"/>
+	[![preview](assets/res.webp)](assets/res.webp)
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/isabelroses/freshrss/main/assets/latte.png"/>
+![latte](assets/latte.png)
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/isabelroses/freshrss/main/assets/frappe.png"/>
+![frappe](assets/frappe.png)
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/isabelroses/freshrss/main/assets/macchiato.png"/>
+![macchiato](assets/macchiato.png)
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/isabelroses/freshrss/main/assets/mocha.png"/>
+![mocha](assets/mocha.png)
 </details>
 
 ## Usage
