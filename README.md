@@ -12,26 +12,26 @@
 </p>
 
 <p align="center">
-	[![preview](assets/res.webp)](assets/res.webp)
+	<img src="./assets/res.webp" />
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-![latte](assets/latte.png)
+	<img src="./assets/latte.png" />
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-![frappe](assets/frappe.png)
+	<img src="./assets/frappe.png" />
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-![macchiato](assets/macchiato.png)
+	<img src="./assets/macchiato.png" />	
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-![mocha](assets/mocha.png)
+	<img src="./assets/mocha.png" />
 </details>
 
 ## Usage
